@@ -1,0 +1,5 @@
+{
+    "name": "victormacko/staticmaplite",
+    "description": "Composer package for dfacts/staticmaplite",
+    "require": {}
+}
